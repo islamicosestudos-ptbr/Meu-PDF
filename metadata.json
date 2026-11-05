@@ -1,0 +1,6 @@
+{
+  "name": "VozPDF Studio",
+  "description": "Leitor multifuncional de PDFs em segundo plano com vozes neurais de altíssima qualidade, controles no sistema e ferramentas de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
